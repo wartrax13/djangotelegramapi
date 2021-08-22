@@ -1,1 +1,1 @@
-web: gunicorn djangotelegramapi.wsgi
+web: gunicorn dtbot.wsgi
